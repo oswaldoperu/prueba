@@ -1,5 +1,0 @@
-SQLQuery1
-SQLQuery2.sql
-SQLQuery9.sql
-dsust.txt
-sust.txt
